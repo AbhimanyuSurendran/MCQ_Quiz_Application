@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243591342741",
+    "project_id": "mcq-quiz-application-fdd2f",
+    "storage_bucket": "mcq-quiz-application-fdd2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243591342741:android:a5c82a137dfdc4a6f3499c",
+        "android_client_info": {
+          "package_name": "abhimanyu.surendran.mcqquizapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243591342741-7o298fihbost1n0is07olth3l0omgc9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgDThEo02HPpir64n0eF7PPxf7nborr2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243591342741-7o298fihbost1n0is07olth3l0omgc9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
